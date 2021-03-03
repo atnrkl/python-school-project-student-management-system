@@ -37,7 +37,7 @@ def bank_menu(selected_account):
                     users2[id][1] += money
 
                 except ValueError:
-                    print("piç")
+                    print("cheese")
 
             else:
                 print("İnvalid value.. Try again")
